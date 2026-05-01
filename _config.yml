@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Rosa Bermejo / Site Title"
+title                    : "Rosa Bermejo, doctoral candidate"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Rosa Bermejo's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,10 +24,10 @@ repository               : "RosaMBermejo/rosambermejo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Rosa Bermejo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Social and Health Psychology"
+  location         : "New York"
   employer         : "Stony Brook University"
   uri              : # URL
   email            : "rosa.bermejo@stonybrook.edu" 
@@ -35,14 +35,14 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8004-9872"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Rosa_Bermejo4"
   scopus           : # URL
   zotero           : # URL
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with your Bluesky username: "bsky.app" 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -84,12 +84,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  #books:
+   # title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+ # conferences:
+ #  title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
