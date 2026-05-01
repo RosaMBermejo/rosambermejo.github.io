@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "The Crucial Roles of Campus Representation and Sense of Belonging of Undergraduates in Science, Technology, Engineering, and Math"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
