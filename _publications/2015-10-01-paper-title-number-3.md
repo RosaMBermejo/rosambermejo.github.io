@@ -1,5 +1,6 @@
 ---
-title: "Paper Title Number 3"
+title: "The Crucial Roles of Campus Representation and Sense of Belonging of Undergraduates in Science Technology Engineering and Math.<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/c61c9839-5804-4e35-b4ef-a95bd72482ab" />
+"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
