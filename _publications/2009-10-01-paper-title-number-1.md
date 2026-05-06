@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Black and Latine students enrolled in science, technology, engineering, and mathematics (STEM) programs are switching majors and dropping out of college at higher rates than their white peers, highlighting systemic barriers and inequities that need to be addressed. The current study aimed to understand potential psychosocial pathways that contribute to poor retention of Black and Latine students in STEM relative to their white peers.'
-date: 2025
+date: 2025-04-29
 venue: 'Journal for STEM Education Research'
 paperurl: 'https://rosambermejo.github.io/files/Burchett-et-al-2025.pdf'
 citation: 'Burchett, C. O., Peña, T., Monahan, C., Bermejo, R.M., Sarwana, M., & London, B. (2025). The Crucial Roles of Campus Representation and Sense of Belonging of Undergraduates in Science Technology Engineering and Math. Journal for STEM Education Research.'
